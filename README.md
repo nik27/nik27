@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @nik27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋🏻 I'm Nikola!
+[![Website: nik27.io](https://img.shields.io/website?label=nik27.io&up_message=visit&url=https%3A%2F%2Fnik27.io)]
+[![Linkedin: nik27](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nik27/)](https://www.linkedin.com/in/nik27/)
+[![GitHub nik27](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/nik27)
 
-<!---
-nik27/nik27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend Engineer at [Biox](https://bioxcorp.net).
+
+## Languages and Tools:
+### Currently working with:
+- JavaScript
+- TypeScript
+- React.js
+- Node.js
+- RxJS
+- Redux
+- Next.js
+- Gatsby.js
+
+### Currently learning / Plan on learning in near future:
+- Elixir
+- Phoenix LiveView
+- Svelte
+- WebGL
+- WASM
+
+### Familiar with:
+- C#
+- Java
+- C++
