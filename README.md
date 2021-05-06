@@ -5,8 +5,8 @@
 
 Frontend Engineer at [Biox](https://bioxcorp.net).
 
-## Languages and Tools:
-### Currently working with:
+## 🔨 Languages and Tools:
+### 🖥 Currently working with:
 - JavaScript
 - TypeScript
 - React.js
@@ -16,14 +16,14 @@ Frontend Engineer at [Biox](https://bioxcorp.net).
 - Next.js
 - Gatsby.js
 
-### Currently learning / Plan on learning in near future:
+### 🕹 Currently learning / Plan on learning in near future:
 - Elixir
 - Phoenix LiveView
 - Svelte
 - WebGL
 - WASM
 
-### Familiar with:
+### 🤔 Familiar with:
 - C#
 - Java
 - C++
