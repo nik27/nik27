@@ -3,8 +3,6 @@
 [![Linkedin: nik27](https://img.shields.io/badge/-nik27-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nik27/)](https://www.linkedin.com/in/nik27/)
 [![GitHub nik27](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/nik27)
 
-Frontend Engineer at [Biox](https://bioxcorp.net).
-
 ## 🔨 Languages and Tools:
 ### 🖥 Currently working with:
 - JavaScript
