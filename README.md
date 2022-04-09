@@ -12,7 +12,6 @@
 - RxJS
 - Redux
 - Next.js
-- Gatsby.js
 
 ### 🕹 Currently learning / Plan on learning in near future:
 - Elixir
